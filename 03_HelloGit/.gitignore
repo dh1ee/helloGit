@@ -106,7 +106,7 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk
+*.lnk 
 
 
 # End of https://www.gitignore.io/api/java,windows,eclipse
