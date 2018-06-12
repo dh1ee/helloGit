@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.println("뻐큐깃!");
 		System.out.println("죽어라깃!");
 		System.out.println("test1 브랜치 시작!");
+		System.out.println("test1 브랜치 끝!");
 		
 		
 	}
